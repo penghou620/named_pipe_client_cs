@@ -1,0 +1,4 @@
+c:\users\penghou\documents\visual studio 2010\Projects\named_pipe_client_cs\named_pipe_client_cs\bin\Debug\named_pipe_client_cs.exe
+c:\users\penghou\documents\visual studio 2010\Projects\named_pipe_client_cs\named_pipe_client_cs\bin\Debug\named_pipe_client_cs.pdb
+c:\users\penghou\documents\visual studio 2010\Projects\named_pipe_client_cs\named_pipe_client_cs\obj\x86\Debug\named_pipe_client_cs.exe
+c:\users\penghou\documents\visual studio 2010\Projects\named_pipe_client_cs\named_pipe_client_cs\obj\x86\Debug\named_pipe_client_cs.pdb
